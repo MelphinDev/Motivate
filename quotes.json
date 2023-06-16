@@ -1,6 +1,28 @@
 [
   {
     "author": "Albert Einstein",
-    "quotes": ["We cannot solve problems with the kind of thinking we employed when we came up with them."]
+    "quotes": [
+      "We cannot solve problems with the kind of thinking we employed when we came up with them.",
+      "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+      "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+      "I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
+      "Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that is is stupid."
+    ]
+  },
+  {
+    "author": "Seneca",
+    "quotes": [
+      "Sometimes even to live is an act of courage.",
+      "True happiness is to enjoy the present, without anxious dependence upon the future, not to amuse ourselves with either hopes or fears but to rest satisfied with what we have, which is sufficient, for he that is so wants nothing. The greatest blessings of mankind are within us and within our reach. A wise man is content with his lot, whatever it may be, without wishing for what he has not.",
+      "Luck is what happens when preparation meets opportunity."
+    ]
+  },
+  {
+    "author": "Marcus Aurelius",
+    "quotes": [
+      "You have power over your mind - not outside events. Realize this, and you will find strength.",
+      "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+      "The happiness of your life depends upon the quality of your thoughts."
+    ]
   }
 ]
