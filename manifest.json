@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Motivate",
+  "name": "neluin",
   "version": "0.1",
-  "description": "Let's motivate!",
+  "description": "Penguin",
   "author": "Kim Hajin",
   "chrome_url_overrides" : {
     "newtab": "index.html"
